@@ -3,15 +3,15 @@
     "version": "0.8.0",
     "displayName": "ChoETL",
     "description": "",
-    "unity": "2019.3",
+    "unity": "2023.0.1",
     "dependencies": {
     },
     "keywords": [
         "CSV"
     ],
     "author": {
-        "name": "Sam Driver / Nicholas Falcone",
-        "url": "https://samdriver.xyz"
+        "name": "Nicholas",
+        "url": "https://github.com/NicholasFalcone/ChoETL_Unity/tree/master"
     },
     "hideInEditor": false
 }
