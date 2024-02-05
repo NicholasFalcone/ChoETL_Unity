@@ -1,0 +1,17 @@
+{
+    "name": "com.mixedbag.choetl",
+    "version": "0.8.0",
+    "displayName": "ChoETL",
+    "description": "",
+    "unity": "2019.3",
+    "dependencies": {
+    },
+    "keywords": [
+        "CSV"
+    ],
+    "author": {
+        "name": "Sam Driver / Nicholas Falcone",
+        "url": "https://samdriver.xyz"
+    },
+    "hideInEditor": false
+}
